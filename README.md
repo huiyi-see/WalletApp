@@ -1,4 +1,4 @@
 # Wallet App Interface
 
 
-![Image](img.jpg)
+![alt text](https://github.com/huiyi-see/walletApp.git/master/image.jpg?raw=true)
